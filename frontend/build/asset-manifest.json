@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f07e8df6.css",
+    "main.js": "/static/js/main.07c6e7d9.js",
+    "static/media/OpenSans-VariableFont_wdth,wght.ttf": "/static/media/OpenSans-VariableFont_wdth,wght.071a1becc7f00e33cc5b.ttf",
+    "static/media/dash2.svg": "/static/media/dash2.dd0cd46ec306cf3be98f.svg",
+    "static/media/dash1.svg": "/static/media/dash1.ba194e831618f910d05d.svg",
+    "static/media/dash3.svg": "/static/media/dash3.8f7419952bd52e35a142.svg",
+    "static/media/dash4.svg": "/static/media/dash4.662a42c75260ef76c213.svg",
+    "static/media/Montserrat-VariableFont_wght.ttf": "/static/media/Montserrat-VariableFont_wght.7e687123cd4528224ce5.ttf",
+    "static/media/Big_Banner_6_1__1.jpg": "/static/media/Big_Banner_6_1__1.a442d74c411166cbb0e6.jpg",
+    "static/media/db63fb5e-a258-49e0-b539-c14144294f46.jpg": "/static/media/db63fb5e-a258-49e0-b539-c14144294f46.57c8c34694aeec639df6.jpg",
+    "static/media/profile.jpg": "/static/media/profile.d2c7ce94c99a1764d804.jpg",
+    "static/media/71Ie3JXGfVL._SX3000_.jpg": "/static/media/71Ie3JXGfVL._SX3000_.805821d23a3f63566f17.jpg",
+    "static/media/71YTsbTxBsL._SX3000_.jpg": "/static/media/71YTsbTxBsL._SX3000_.e6f77f7cd4abc1aa491f.jpg",
+    "static/media/61lwJy4B8PL._SX3000_.jpg": "/static/media/61lwJy4B8PL._SX3000_.af535717a7579eabdac4.jpg",
+    "static/media/ca.png": "/static/media/ca.f8d3b8a3490b97fc737e.png",
+    "static/media/Big_Banner_5_1__1.jpg": "/static/media/Big_Banner_5_1__1.e22db3e4d5744205862f.jpg",
+    "static/media/61CiqVTRBEL._SX3000_.jpg": "/static/media/61CiqVTRBEL._SX3000_.7f4a5ddb4ca2c826301e.jpg",
+    "static/media/perfume collection.jpeg": "/static/media/perfume collection.37270e69592b4099dd68.jpeg",
+    "static/media/electronic.jpeg": "/static/media/electronic.c795aace38775999c663.jpeg",
+    "static/media/fashion accessories.jpeg": "/static/media/fashion accessories.38b24714c3162558a41d.jpeg",
+    "static/media/gift.jpeg": "/static/media/gift.a021fecac3c1ffe73c38.jpeg",
+    "index.html": "/index.html",
+    "main.f07e8df6.css.map": "/static/css/main.f07e8df6.css.map",
+    "main.07c6e7d9.js.map": "/static/js/main.07c6e7d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f07e8df6.css",
+    "static/js/main.07c6e7d9.js"
+  ]
+}
