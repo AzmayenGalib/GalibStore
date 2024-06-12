@@ -1,10 +1,10 @@
 /* controller er modda env k acces korte chaile amader k obossoi
 app.js file a env k import korte hobe nahole kaz korbena */
 
- if (process.env.NODE_ENV === "PRODUCTION") {
+/*  if (process.env.NODE_ENV === "PRODUCTION") {
     require("dotenv").config({ path:"backend/config/config.env" });
   } 
-
+ */
 /* warning ::
 akta kotha khub importent mone rakhte hoe seta holo
 dotenv require and configure k sobar upoore rakhte hobe 
